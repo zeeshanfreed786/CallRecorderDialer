@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="recordings_title">Recordings</string>
+    <string name="call">Call</string>
+    <string name="backspace">⌫</string>
+    <string name="play">Play</string>
+    <string name="delete">Delete</string>
+    <string name="no_recordings">No recordings yet</string>
+    <string name="recording_notification_title">Recording call</string>
+    <string name="playback_failed">Couldn\'t play recording</string>
+</resources>
